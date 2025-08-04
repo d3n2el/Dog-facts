@@ -30,7 +30,7 @@ body {
     word-break: break-word; /* allow to avoid overflow*/
     overflow-wrap: break-word;
     max-width: 90vw; /* limit it for small screens */
-    margin-bottom: 32px; 
+    margin-bottom: 40px; 
 }
 
 .centered-box {

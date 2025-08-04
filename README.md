@@ -38,10 +38,6 @@ Dog-facts/
     └── demo.png
 ```
 
-## Screenshots
-
-![Main UI](https://raw.githubusercontent.com/d3n2el/Dog-facts/main/screenshots/demo.png)
-
 ## Credits
 - Dog facts provided by [Dog API](https://dog-api.kinduff.com/api/facts) or similar public APIs
 - UI and code by [d3n2el](https://github.com/d3n2el)
